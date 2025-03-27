@@ -116,3 +116,5 @@ This modular structure enables phased adoption of AI governance practices while 
 | 15_glossary.md                      | Glossary                                       | —                           |
 | 16_compliance_mapping.md            | Compliance Mapping                             | All RMF categories          |
 | 17_policy_templates.md              | Policy Templates                               | Depends on template         |
+| 18_genai_risk_categories.md         | Category mapping from NIST AI 600-1            | -                           |
+
