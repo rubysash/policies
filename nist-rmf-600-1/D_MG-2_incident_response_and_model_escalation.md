@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Incident Response and Model Escalation Procedures
 nist_function: Manage
 priority_phase: Must

@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Third-Party Generative AI Vendor Risks
 nist_function: Manage
 priority_phase: Must

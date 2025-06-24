@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: AI Roles and Governance Responsibilities
 nist_function: Govern
 priority_phase: Must

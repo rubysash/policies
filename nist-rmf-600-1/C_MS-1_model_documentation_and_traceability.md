@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Data and Model Documentation for GenAI Systems
 nist_function: Map
 priority_phase: Must

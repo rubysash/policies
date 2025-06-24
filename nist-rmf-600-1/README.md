@@ -21,6 +21,7 @@ This modular structure enables phased adoption of AI governance practices while 
 # Policy Document Structure/Summaries
 
 ---
+author: jfraze@mycomp.org
 
 ## A. Overview and Governance (GV)
 

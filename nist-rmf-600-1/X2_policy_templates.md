@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: AI Policy Management Templates
 category: Appendices
 last_reviewed: 2025-06-24

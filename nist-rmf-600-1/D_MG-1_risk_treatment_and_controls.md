@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Risk Treatment and Controls for Generative AI
 nist_function: Manage
 priority_phase: Must

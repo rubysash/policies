@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Model Monitoring and Event Logging for GenAI Systems
 nist_function: Manage
 priority_phase: Must

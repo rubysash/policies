@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Glossary of AI and Generative AI Terms
 section: Appendix
 last_reviewed: 2025-06-24

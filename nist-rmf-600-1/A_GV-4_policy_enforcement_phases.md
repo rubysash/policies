@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Policy Enforcement Phases for AI Risk Controls
 nist_function: Govern
 priority_phase: Must

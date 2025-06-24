@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Transparency and Explainability in GenAI Use
 nist_function: Measure
 priority_phase: Must

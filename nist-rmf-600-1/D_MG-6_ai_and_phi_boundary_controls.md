@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: AI and PHI Boundary Controls
 nist_function: Manage
 priority_phase: Must

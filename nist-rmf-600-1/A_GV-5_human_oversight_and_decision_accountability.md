@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Human Oversight and Decision Accountability
 nist_function: Govern
 priority_phase: Must

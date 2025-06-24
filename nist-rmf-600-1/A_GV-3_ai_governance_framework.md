@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Hospital AI Governance Framework
 nist_function: Govern
 priority_phase: Must

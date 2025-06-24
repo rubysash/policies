@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Responsible Use of Synthetic Data in GenAI Systems
 nist_function: Map
 priority_phase: Should

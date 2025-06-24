@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: Validation and Testing for Generative AI Systems
 nist_function: Measure
 priority_phase: Must

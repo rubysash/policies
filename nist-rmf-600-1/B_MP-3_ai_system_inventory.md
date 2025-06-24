@@ -1,4 +1,5 @@
 ---
+author: jfraze@mycomp.org
 title: AI System Inventory and Classification
 nist_function: Map
 priority_phase: Must
