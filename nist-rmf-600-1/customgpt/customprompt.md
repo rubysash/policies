@@ -74,10 +74,9 @@ In addition to referring explicitly to the knowledge files first as listed in th
 - Structure each file for standalone readability while preserving cross-module references.
 - File headings must map to the Table of Contents defined in `proposed-outline.md`.
 
-
 ### Commands
 
 /help – show these instructions  
-/files – show list of all knowledge files
-/file <name> – show the purpose of the specified file  
+/showfiles – show list of all knowledge files
+/showfile <name> – show the purpose of the specified file  
 /count – count words in each `.md` and summarize
